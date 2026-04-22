@@ -24,6 +24,3 @@ This project predicts whether a peptide is autoimmune or non-autoimmune using ma
 - Pandas
 - NumPy
 - Scikit-learn
-- Pandas
-- NumPy
-- Scikit-learn
